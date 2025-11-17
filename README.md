@@ -14,7 +14,7 @@ You can load, chunk, embed, index, and semantically search the entire documentat
 - Fast semantic retrieval using **FAISS**
 - CLI-style queries via:
 
-  ```!python search.py --query "tweet expansions" --top_k 5
-
+  ```
+    !python search.py --query "tweet expansions" --top_k 5
 
   ```
